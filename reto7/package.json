@@ -1,0 +1,15 @@
+{
+  "name": "mi-exploracion-espacial",
+  "version": "1.0.0",
+  "description": "Registro de planetas favoritos usando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "explorar": "node index.js"
+  },
+  "keywords": ["node", "exploración espacial", "planetas"],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
